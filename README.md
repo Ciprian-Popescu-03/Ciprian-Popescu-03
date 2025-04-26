@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me 🌱
 
-<!--
-**Ciprian-Popescu-03/Ciprian-Popescu-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Ciprian Popescu**, a second-year Computer Science and Engineering student at the Technical University of Cluj-Napoca (UTCN).  
+I am passionate about technology and fascinated by how systems are built, optimized, and coded.  
+I consider myself an attentive, hardworking student who is eager to learn, grow, and apply my knowledge in real-world projects and challenges.
 
-Here are some ideas to get you started:
+# My Mission 🔎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Explore opportunities to contribute to innovative technology and automotive solutions  
+- Work on collaborative projects and internships to gain hands-on experience  
+- Deepen my understanding of back-end development, software engineering, and embedded systems  
+- Stay curious, adaptable, and committed to lifelong learning and personal growth
+- 
+# Contact 📫
+
+- **LinkedIn:** [Ciprian Popescu](https://linkedin.com/in/ciprian-popescu-892a74362)  
+- **Email:** [ciprian.popescu20043@gmail.com](mailto:ciprian.popescu20043@gmail.com)
