@@ -10,7 +10,7 @@ I consider myself an attentive, hardworking student who is eager to learn, grow,
 - Work on collaborative projects and internships to gain hands-on experience  
 - Deepen my understanding of back-end development, software engineering, and embedded systems  
 - Stay curious, adaptable, and committed to lifelong learning and personal growth
-- 
+
 # Contact 📫
 
 - **LinkedIn:** [Ciprian Popescu](https://linkedin.com/in/ciprian-popescu-892a74362)  
