@@ -1,6 +1,6 @@
 # About Me 🌱
 
-Hi there! I'm **Ciprian Popescu**, a second-year Computer Science and Engineering student at the Technical University of Cluj-Napoca (UTCN).  
+Hi there! I'm **Ciprian Popescu**, a third-year Computer Science and Engineering student at the Technical University of Cluj-Napoca (UTCN).  
 I am passionate about technology and fascinated by how systems are built, optimized, and coded.  
 I consider myself an attentive, hardworking student who is eager to learn, grow, and apply my knowledge in real-world projects and challenges.
 
