@@ -12,7 +12,7 @@ Final-year **Computer Science** student at the Technical University of Cluj-Napo
 | Project | What it is | Stack |
 |---|---|---|
 | [Order Management Platform](https://github.com/Ciprian-Popescu-03/OrderManagementPlatform) | Full-stack app with ADMIN/CUSTOMER roles, JWT auth, email password reset, unit and integration tests | Java, Spring Boot, Spring Security, Angular, PostgreSQL, JUnit 5, Mockito |
-| [Car Detailing Booking](https://github.com/Ciprian-Popescu-03/car-detailing-booking) | Deployed booking system with a slot-availability engine and admin dashboard | Spring Boot, React, Vite, Tailwind, PostgreSQL, Docker |
+| [Car Detailing Booking](https://github.com/Ciprian-Popescu-03/car-detailing-booking) | Booking system with a slot-availability engine and admin dashboard, Dockerized | Spring Boot, React, Vite, Tailwind, PostgreSQL, Docker |
 | [Hotel Booking API](https://github.com/Ciprian-Popescu-03/SpringBootHotelBookingSystem) | Team project: I built the service layer (booking lifecycle, room availability, user management) | Spring Boot, JPA, PostgreSQL, Liquibase |
 | [AI Interviewer](https://github.com/Ciprian-Popescu-03/ai-interviewer) | CLI that runs an LLM-driven interview and analyzes the transcript into structured JSON | Python, Claude API |
 | [Mobile Hardware Benchmark](https://github.com/Ciprian-Popescu-03/MobileHardwareBenchmark) | Android benchmark for CPU, RAM and storage, with an OpenGL ES stress test | Java, Android, OpenGL ES |
