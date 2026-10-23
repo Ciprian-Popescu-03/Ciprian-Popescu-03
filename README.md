@@ -4,7 +4,7 @@ Final-year **Computer Science** student at the Technical University of Cluj-Napo
 
 - 🛠️ **Most recently:** Backend Developer Intern at **DMI Automotive** (Jul–Sep 2026): security fixes, multi-process-safe rate limiting and sessions, and a 130+ test CI suite for a containerized CTF platform (FastAPI, SQLAlchemy, MySQL, Docker)
 - 💼 **Before that:** Working Student at **NTT DATA Romania** (Java, Spring Boot, PostgreSQL)
-- 🎓 **Thesis (in progress):** on-device facial recognition on an **ESP32** microcontroller (C/C++, computer vision)
+- 🎓 **Thesis (in progress):** a **deep learning-based facial recognition terminal**: real-time face detection and recognition on edge hardware
 - 🔎 **Open to:** internships, working-student and junior roles in backend, full-stack or embedded software, in Cluj-Napoca or remote
 
 ## ⭐ Featured projects
