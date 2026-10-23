@@ -4,7 +4,7 @@ Final-year **Computer Science** student at the Technical University of Cluj-Napo
 
 - 🛠️ **Most recently:** Backend Developer Intern at **DMI Automotive** (Jul–Sep 2026): security fixes, multi-process-safe rate limiting and sessions, and a 130+ test CI suite for a containerized CTF platform (FastAPI, SQLAlchemy, MySQL, Docker)
 - 💼 **Before that:** Working Student at **NTT DATA Romania** (Java, Spring Boot, PostgreSQL)
-- 🎓 **Thesis (in progress):** a **deep learning-based facial recognition terminal**: real-time face detection and recognition on edge hardware
+- 🎓 **Thesis (in progress):** a **deep learning-based facial recognition terminal**: real-time face detection and recognition on a Raspberry Pi
 - 🔎 **Open to:** internships, working-student and junior roles in backend, full-stack or embedded software, in Cluj-Napoca or remote
 
 ## ⭐ Featured projects
@@ -12,8 +12,8 @@ Final-year **Computer Science** student at the Technical University of Cluj-Napo
 | Project | What it is | Stack |
 |---|---|---|
 | [Order Management Platform](https://github.com/Ciprian-Popescu-03/OrderManagementPlatform) | Full-stack app with ADMIN/CUSTOMER roles, JWT auth, email password reset, unit and integration tests | Java, Spring Boot, Spring Security, Angular, PostgreSQL, JUnit 5, Mockito |
-| [Car Detailing Booking](https://github.com/Ciprian-Popescu-03/car-detailing-booking) | Appointment booking system for a car-detailing shop | Spring Boot, React, Vite, Tailwind, PostgreSQL, Docker |
-| [Hotel Booking API](https://github.com/Ciprian-Popescu-03/SpringBootHotelBookingSystem) | REST API for room search, availability and bookings, with OpenAPI docs | Spring Boot, JPA, PostgreSQL, Liquibase |
+| [Car Detailing Booking](https://github.com/Ciprian-Popescu-03/car-detailing-booking) | Deployed booking system with a slot-availability engine and admin dashboard | Spring Boot, React, Vite, Tailwind, PostgreSQL, Docker |
+| [Hotel Booking API](https://github.com/Ciprian-Popescu-03/SpringBootHotelBookingSystem) | Team project: I built the service layer (booking lifecycle, room availability, user management) | Spring Boot, JPA, PostgreSQL, Liquibase |
 | [AI Interviewer](https://github.com/Ciprian-Popescu-03/ai-interviewer) | CLI that runs an LLM-driven interview and analyzes the transcript into structured JSON | Python, Claude API |
 | [Mobile Hardware Benchmark](https://github.com/Ciprian-Popescu-03/MobileHardwareBenchmark) | Android benchmark for CPU, RAM and storage, with an OpenGL ES stress test | Java, Android, OpenGL ES |
 | [Home Security System](https://github.com/Ciprian-Popescu-03/HomeSecuritySystem) | Hardware security system with three operating modes on an FPGA | VHDL, Basys 3, Vivado |
